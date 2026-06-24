@@ -1,0 +1,3 @@
+s={5 , 6 , 4 , 5 , 8 ,9}
+print(s)
+print(type(s))

@@ -1,0 +1,10 @@
+print("Hello World")
+print(5)
+print(17*85)
+print("Tarun Puniya")
+print(17/58)
+print(54+78)
+print(56-78)
+print("Uttam Rajput")
+print("Hey i am a good boy \nand this viewer is also a good boy/girl")
+import pyjokes
